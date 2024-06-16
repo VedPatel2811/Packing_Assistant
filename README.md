@@ -1,2 +1,2 @@
 # Packing_Assistant
-Created with CodeSandbox
+Packing Assistant is a simple and intuitive web application designed to help you organize and manage your packing list for any trip. Easily add items, specify quantities, and mark items as packed. Stay on top of your packing with clear stats that show your progress. Perfect for ensuring you never forget any essentials on your next adventure!
